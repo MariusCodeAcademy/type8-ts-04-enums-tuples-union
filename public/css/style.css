@@ -1,0 +1,8 @@
+@import 'reset.css';
+
+.card {
+  padding: 1rem 2rem;
+  border: 1px solid #000;
+  border-radius: 4px;
+  box-shadow: 5px 5px 25px gray;
+}
