@@ -11,6 +11,7 @@
    3.3 saturday => 'saturday a saturnday'
    3.3 sunday => 'Its a last day'
    3.4 Padaryti kad funkcija grazintu argumenta ir tai ka atspausdina ir aprasti grazinamai reiksmei tipa
+   [monday, 'its a work day']
 
 4. sukurti enum appState kuris turi Loading, Error, Online. Parasyti funkcija kuri atspaustina htmle kortele "Loading...", "Ivyko klaida!!!" "Serbentaudas bordiuras pasiruoses" priklausomai nuo state kuri gavo.
 
