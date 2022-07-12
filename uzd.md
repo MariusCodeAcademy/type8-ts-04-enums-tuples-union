@@ -10,5 +10,14 @@
    3.2 tuesday-friday => 'its a week day'
    3.3 saturday => 'saturday a saturnday'
    3.3 sunday => 'Its a last day'
+   3.4 Padaryti kad funkcija grazintu argumenta ir tai ka atspausdina ir aprasti grazinamai reiksmei tipa
 
 4. sukurti enum appState kuris turi Loading, Error, Online. Parasyti funkcija kuri atspaustina htmle kortele "Loading...", "Ivyko klaida!!!" "Serbentaudas bordiuras pasiruoses" priklausomai nuo state kuri gavo.
+
+# tuples
+
+1. sukurti tuple tipa tokiam masyvui
+   `[45, 'Serpentautas', 2020, true]`
+2. pasirasyti tipa tuple masyvui. Kievienas elemetas turi skaitini id, pavadinima ir boolean
+   2.1 sukurti bent 5 masyvo elementus
+   2.2 atspausdinti html'e saraso pavidalu elemntus is sio tuple masyvo. Atspausdinti tik tuos kuriu boolean reiksme yra true
