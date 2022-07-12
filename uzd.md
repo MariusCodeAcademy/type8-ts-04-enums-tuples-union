@@ -13,7 +13,9 @@
    3.4 Padaryti kad funkcija grazintu argumenta ir tai ka atspausdina ir aprasti grazinamai reiksmei tipa
    [monday, 'its a work day']
 
-4. sukurti enum appState kuris turi Loading, Error, Online. Parasyti funkcija kuri atspaustina htmle kortele "Loading...", "Ivyko klaida!!!" "Serbentaudas bordiuras pasiruoses" priklausomai nuo state kuri gavo.
+4. sukurti enum appState kuris turi Loading, Error, Online. Parasyti funkcija kuri atspaustina htmle kortele "Loading...", "Ivyko klaida!!!" "Serbentaudas Bordiuras pasiruoses" priklausomai nuo state kuri gavo.
+   4.1 padaryti kad tik pasleidus pusplapiui 5 sekundes yra loading state
+   4.2 po loading state random budu gaunam Error arba Online
 
 # tuples
 
